@@ -1,7 +1,10 @@
 *
 !.gitignore
-!./hypr
-!./wofi
-!./kitty
-!./nvim
-
+!/hypr
+!/hypr/**
+!/wofi
+!/wofi/**
+!/kitty
+!/kitty/**
+!/nvim
+!/nvim/**
